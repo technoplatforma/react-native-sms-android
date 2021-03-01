@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "github.com:rhaker/react-native-sms-android.git"
+    "url": "git@github.com:sergeymild/react-native-sms-android.git"
   },
   "author": "rhaker <email@example.com> (http://github.com/rhaker)",
   "license": "MIT",
