@@ -58,7 +58,7 @@ public class RNSmsAndroidModule extends ReactContextBaseJavaModule {
             }
 
             catch (Exception e) {
-                promise.reject(false)
+                promise.reject(false);
             }
 
     }
