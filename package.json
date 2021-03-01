@@ -18,12 +18,12 @@
     "type": "git",
     "url": "git@github.com:sergeymild/react-native-sms-android.git"
   },
-  "author": "rhaker <email@example.com> (http://github.com/rhaker)",
+  "author": "sergeyMild <email@example.com> (http://github.com/sergeymild)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rhaker/react-native-sms-android/issues"
+    "url": "https://github.com/sergeymild/react-native-sms-android/issues"
   },
-  "homepage": "https://github.com/rhaker/react-native-sms-android",
+  "homepage": "https://github.com/sergeymild/react-native-sms-android",
   "peerDependencies": {
     "react-native": ">=0.41.2"
   },
