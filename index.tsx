@@ -1,6 +1,6 @@
 import { NativeModules, Linking, Platform } from 'react-native'
 
-export class SmsAndroid {
+export class Sms {
 
   static sms = async (phone: string, body: string): Promise<boolean> => {
     if (Platform.OS === 'ios') {
