@@ -1,5 +1,9 @@
 ## react-native-sms-android
 
+First fork: https://github.com/rhaker/react-native-sms-android
+
+Second fork: https://github.com/Connect-Club/react-native-sms-android
+
 This is a react native module that sends a sms message to a phone number.
 
 ## Installation
